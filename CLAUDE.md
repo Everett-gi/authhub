@@ -1,7 +1,7 @@
 # AuthHub — Contexto do Projeto
 
 > Handoff para o Claude Code. Convenções compartilhadas em `../../README.md`.
-> **Status:** blueprint (a construir). Referência de qualidade: `../../python/docsage`.
+> **Status:** blueprint (a construir). Referência de qualidade: [DocSage](https://github.com/Everett-gi/docsage).
 
 ## O que é
 Servidor central de **autenticação e autorização**: login, registro, OAuth2/OIDC, MFA.
