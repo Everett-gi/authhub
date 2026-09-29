@@ -1,0 +1,23 @@
+# Segredos (nunca versionar)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+
+# Maven / Java
+target/
+*.class
+*.log
+hs_err_pid*
+
+# IDE / Sistema Operacional
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
